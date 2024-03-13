@@ -163,6 +163,8 @@
     "seed": "tsx prisma/seed.ts"
   },
   "nx": {
-    "includedScripts": []
+    "includedScripts": [
+      "build"
+    ]
   }
 }
