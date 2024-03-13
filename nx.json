@@ -1,4 +1,6 @@
 {
+  "nxCloudAccessToken": "MDFlMzA5MmMtODJiZi00MmVkLWE5ZWEtMWE1OWE5OTVkMmFhfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://cloud.nx.app",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "affected": {
     "defaultBase": "main"
