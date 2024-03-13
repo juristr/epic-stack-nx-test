@@ -5,6 +5,11 @@
   "affected": {
     "defaultBase": "main"
   },
+  "targetDefaults": {
+    "build": {
+      "cache": true
+    }
+  },
   "plugins": [
     {
       "plugin": "@nx/playwright/plugin",
